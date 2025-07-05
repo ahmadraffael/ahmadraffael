@@ -1,9 +1,4 @@
-<h1>Hi, i'm Ahmad Raffael 👋</h1>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<h2>Hi, i'm Ahmad Raffael 👋</h2>
 
 🎓 I'm a high school student learning web development and design. I love turning ideas into interactive, real projects — from clean UI with Tailwind to robust backends with Laravel. Still learning, but enjoying the process!
 
@@ -29,3 +24,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadraffael/ahmadraffael/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/ahmadraffael/output/pacman-contribution-graph.svg">
 </picture>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
