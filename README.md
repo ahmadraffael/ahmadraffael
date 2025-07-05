@@ -7,16 +7,13 @@
 
 🎓 I'm a high school student learning web development and design. I love turning ideas into interactive, real projects — from clean UI with Tailwind to robust backends with Laravel. Still learning, but enjoying the process!
 
-### 📊 My Stats:
+### 🔥 My Stats :
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadraffael&theme=dark" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadraffael&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadraffael&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadraffael&layout=compact&theme=dark" />
-  <img src="https://komarev.com/ghpvc/?username=ahmadraffael&style=flat-square&color=blue" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadraffael/ahmadraffael/output/pacman-contribution-graph-dark.svg">
