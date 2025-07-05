@@ -11,21 +11,8 @@
 
 <div>
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadraffael&layout=compact&theme=dark&hide_border=false&border_radius=5" height="150" alt="Top Langs" />
 </div>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ahmadraffael&theme=dark&hide_border=false&border_radius=5" 
-    height="150" 
-    alt="GitHub Streak" 
-  />
-  &nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadraffael&layout=compact&theme=dark&hide_border=false&border_radius=5" 
-    height="150" 
-    alt="Top Langs" 
-  />
-</p>
 
 ###
 
