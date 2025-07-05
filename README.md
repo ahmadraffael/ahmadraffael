@@ -7,7 +7,7 @@ I'm a high school student learning web development and design. I love turning id
 <div>
   <img 
     src="https://streak-stats.demolab.com?user=ahmadraffael&theme=dark&hide_border=false&border_radius=5" 
-    width="418"
+    width="419"
     alt="GitHub Streak" 
   />
   <img 
