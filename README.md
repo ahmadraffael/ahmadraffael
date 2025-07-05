@@ -15,10 +15,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadraffael&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadraffael&style=flat-square&color=blue" />
+  img src="https://komarev.com/ghpvc/?username=ahmadraffael&style=flat-square&color=blue" />
 </p>
 
 <picture>
