@@ -12,7 +12,7 @@
 <div>
   <img 
     src="https://streak-stats.demolab.com?user=ahmadraffael&theme=dark&hide_border=false&border_radius=5" 
-    height="150" 
+    height="120" 
     alt="GitHub Streak" 
   />
   <img 
