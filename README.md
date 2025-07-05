@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Ahmad Raffael 👋</h1>
+<h1>Hi, i'm Ahmad Raffael 👋</h1>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
