@@ -13,6 +13,7 @@
   <img 
     src="https://streak-stats.demolab.com?user=ahmadraffael&theme=dark&hide_border=false&border_radius=5" 
     height="120" 
+    width="300"
     alt="GitHub Streak" 
   />
   <img 
