@@ -26,12 +26,7 @@ I'm a high school student learning web development and design. I love turning id
 </picture>
 
 ###
-
 <p>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<div style="display: inline-block; border-radius: 50px; overflow: hidden;">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</div>
