@@ -7,12 +7,12 @@ I'm a high school student learning web development and design. I love turning id
 <div>
   <img 
     src="https://streak-stats.demolab.com?user=ahmadraffael&theme=dark&hide_border=false&border_radius=5" 
-    height="150"
+    height="155"
     alt="GitHub Streak" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadraffael&layout=compact&theme=dark&hide_border=false&border_radius=5" 
-    height="150"
+    height="155"
     alt="Top Langs" 
   />
 </div>
